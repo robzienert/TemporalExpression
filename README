@@ -1,0 +1,9 @@
+A temporal expression library I was working on for my Symfony2 CalendarBundle. I decided to take a
+completely different direction, and so the Expression component was no longer needed. I couldn't
+bring myself to throw the code into the trash bin, though.
+
+I'll likely update this to actually function as an independent library somewhere down the line.
+
+Code is based off of a port of a C# temporal expression library called garbagetruck.
+http://code.google.com/p/garbagetruck/
+
